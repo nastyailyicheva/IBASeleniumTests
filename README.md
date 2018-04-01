@@ -1,2 +1,1 @@
-# master
-12345
+Тесты для testing.cld.iba.by
